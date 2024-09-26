@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.my-journey {
+  font-size: 23px;
+  font-weight: 500;
+  margin: 5px;
+  color: #171f46;
+  text-align: center;
+}
+.ccbp {
+  font-size: 22px;
+  color: #2b237c;
+  margin: 5px;
+  text-align: center;
+}
+.chrono-container {
+  width: 1000px;
+  height: 600px;
+}
